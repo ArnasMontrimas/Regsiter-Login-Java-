@@ -20,6 +20,5 @@ public class LoginRegistration {
             products.addViewProducts();
         }
         //End
-        //TODO: More Validation: Regex To make sure username and password does not contain any symbols.
     }
 }
