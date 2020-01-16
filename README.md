@@ -1,7 +1,7 @@
-#Register Login (Java)
+# Register Login (Java)
 Here I made a small app in java there is no GUI i ran it in the Intellij IDEA and it works well
 
-###Features
+### Features
 - Register
 - Login
 - Add a new product (When logged in)
